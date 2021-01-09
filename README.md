@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-!(image)[https://res.cloudinary.com/singhprateek089/image/upload/v1610183576/Screenshot_69_gvmiac.png]
+![image](https://res.cloudinary.com/singhprateek089/image/upload/v1610183576/Screenshot_69_gvmiac.png)
 
 ## Available Scripts
 
